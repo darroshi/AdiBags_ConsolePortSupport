@@ -4,7 +4,7 @@ local AdiBags = LibStub("AceAddon-3.0"):GetAddon("AdiBags")
 
 local mod = AdiBags:NewModule('ConsolePortSupport', 'ABEvent-1.0')
 mod.uiName = 'Console Port support'
-mod.uiDesc = 'Highlight what changes in bags with a little sparkle.'
+mod.uiDesc = 'Console Port Support for AdiBags addon.'
 
 function RegisterBagEvents()
     mod:RegisterMessage("AdiBags_BagOpened", 
