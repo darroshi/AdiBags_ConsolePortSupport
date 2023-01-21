@@ -3,7 +3,7 @@
 ## Title: AdiBags - Console Port Support
 ## Notes: Console Port Support for AdiBags addon.
 ## Author: Darroshi
-## Version: 1.0.1
+## Version: 0.5.1
 
 ## Dependencies: AdiBags, ConsolePort
 
