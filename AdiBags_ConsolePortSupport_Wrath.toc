@@ -1,4 +1,4 @@
-## Interface: 100005
+## Interface: 30401
 ## Title: AdiBags - Console Port Support
 ## Notes: Console Port Support for AdiBags addon.
 ## Author: Darroshi
