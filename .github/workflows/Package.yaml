@@ -1,5 +1,8 @@
 name: Package
 
+env:
+  CF_API_KEY: ${{ secrets.CF_API_KEY }}
+
 on:
   push:
     tags:
