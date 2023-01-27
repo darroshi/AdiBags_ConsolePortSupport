@@ -1,0 +1,12 @@
+name: Package
+
+on:
+  push:
+    tags:
+      - "*-beta"
+      
+jobs:
+  "Package-and-deploy":
+    runs-on: ubuntu
+    steps:
+      - uses: BigWigsMods/packager@v2

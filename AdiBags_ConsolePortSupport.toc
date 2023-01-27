@@ -1,8 +1,11 @@
 ## Interface: 100005
+## Interface-Wrath: 30401
 ## Title: AdiBags - Console Port Support
 ## Notes: Console Port Support for AdiBags addon.
 ## Author: Darroshi
-## Version: 0.5.2
+## Version: 0.5.2-beta
+
+## X-Curse-Project-ID: 776333
 
 ## Dependencies: AdiBags, ConsolePort
 

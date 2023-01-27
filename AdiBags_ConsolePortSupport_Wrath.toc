@@ -1,9 +1,0 @@
-## Interface: 30401
-## Title: AdiBags - Console Port Support
-## Notes: Console Port Support for AdiBags addon.
-## Author: Darroshi
-## Version: 0.5.2
-
-## Dependencies: AdiBags, ConsolePort
-
-AdiBagsConsolePort.lua
